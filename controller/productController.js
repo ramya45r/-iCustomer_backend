@@ -11,7 +11,6 @@ const getProductById = async (req, res) => {
     }
 };
 
-// Get All Products
 const getAllProducts = async (req, res) => {
     try {
         const products = await Product.find({});
