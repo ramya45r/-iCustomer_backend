@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "dataCategory": "Electronics",
+        "recordCount": 100,
+        "fields": ["Name", "Price", "Brand"],
+        "data": [
+            { "Name": "Smartphone", "Price": 699, "Brand": "Apple" },
+            { "Name": "Laptop", "Price": 999, "Brand": "Dell" },
+            { "Name": "Tablet", "Price": 399, "Brand": "Samsung" },
+            { "Name": "Smartwatch", "Price": 199, "Brand": "Fitbit" },
+            { "Name": "Headphones", "Price": 149, "Brand": "Sony" }
+        ]
+    },
+    {
+        "id": 2,
+        "dataCategory": "Home Appliances",
+        "recordCount": 50,
+        "fields": ["Name", "Price", "Brand"],
+        "data": [
+            { "Name": "Refrigerator", "Price": 1200, "Brand": "LG" },
+            { "Name": "Washing Machine", "Price": 800, "Brand": "Whirlpool" },
+            { "Name": "Microwave Oven", "Price": 150, "Brand": "Samsung" },
+            { "Name": "Air Conditioner", "Price": 1400, "Brand": "Daikin" },
+            { "Name": "Vacuum Cleaner", "Price": 250, "Brand": "Dyson" }
+        ]
+    },
+    {
+        "id": 3,
+        "dataCategory": "Gaming",
+        "recordCount": 75,
+        "fields": ["Name", "Price", "Brand"],
+        "data": [
+            { "Name": "Gaming Console", "Price": 499, "Brand": "Sony" },
+            { "Name": "VR Headset", "Price": 349, "Brand": "Meta" },
+            { "Name": "Gaming Mouse", "Price": 89, "Brand": "Logitech" },
+            { "Name": "Gaming Chair", "Price": 299, "Brand": "Secretlab" },
+            { "Name": "Gaming Keyboard", "Price": 129, "Brand": "Razer" }
+        ]
+    }
+]
